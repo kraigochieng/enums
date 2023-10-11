@@ -18,7 +18,6 @@
 
 <h3 style="color:chocolate;">Code to focus on</h3>
 <p>Under <code>/src/main/java/dev/kraigochieng</code></p>
-<ul>
-<li><code>/enums</code></li>
-<li><code>/models</code></li>
-</ul>
+
+<h3>Note</h3>
+<p><code>/* =================================== */</code> is used to note the subsections in the code</p>
